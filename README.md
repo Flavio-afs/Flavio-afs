@@ -8,4 +8,6 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavio-afs)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div><br/>
