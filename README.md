@@ -15,6 +15,5 @@
 
 <div align="center">
   
- ![Snake animation](https://github.com/Flavio-afs/Flavio-afs/blob/output/github-contribution-grid-snake.svg)
 
 </div>
