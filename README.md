@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Ola Meu Nome Flavio Augusto</h1>
+<h1 align="center">Flavio Augusto</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
