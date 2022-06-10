@@ -1,7 +1,7 @@
 
 # 💻Flavio Augusto
 
-# 📊GitHub Stats :
+# 📊Meu Status GitHub  :
 ![](https://github-readme-stats.vercel.app/api?username=flavio-afs&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-afs&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # As Tecnologias que eu uso
