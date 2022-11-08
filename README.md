@@ -1,4 +1,3 @@
-
 <h2 align="left">Olá👋Meu Nome e Flavio Augusto</h2>
 
 ###
@@ -45,54 +44,3 @@
 <img src="https://raw.githubusercontent.com/F/F/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-name: Generate snake animation
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - master
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
-
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
